@@ -1,0 +1,56 @@
+.example-card {
+    width: 25%;
+    margin: 8px;
+    box-shadow: 10px 10px 5px grey;
+    border-radius: 5px;
+    height:30%;
+    transition:0.3s ease;
+    cursor:pointer;
+    background-color:whitesmoke;
+   
+   
+  }
+  .header{
+      width:100%;
+      display: inline-block;
+      text-align: center;
+  }
+ 
+
+  .example-card:hover{
+    /* background-color:lightgreen; */
+    transform: scale(1.01);
+    box-shadow: 5px 5px 5px black;
+}
+  .container-card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: space-between;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    margin: 0 auto; 
+    margin-inline-start: 200px;
+    margin-top:30px;
+  
+    
+  }
+
+  .imgs {
+    height:85%;
+    width: 85%;
+    margin-left:20px;
+    
+  }
+  mat-card-actions button:hover{
+      background-color:yellow;
+    
+  }
+  mat-card-subtitle{
+      color: forestgreen;
+      font-weight:1000;
+  }
+  mat-card-title{
+      color: black;
+  }

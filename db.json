@@ -1,0 +1,60 @@
+{
+  "data":[
+    {
+      "id": 1,
+      "name": "Product 1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": "100.00",
+      "quantity": "10",
+      "image": "https://elcopcbonline.com/photos/product/4/176/4.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": "130.00",
+      "quantity": "10",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5103Xi7yQgL._SL1024_.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": "250.00",
+      "quantity": "3",
+      "image": "https://lh3.googleusercontent.com/kcuyhFJT68FzCgfH-Ow8DdUiL1xgUp6rdAHpSDqF3Eg8j4HQ3O9ANxsyy_EpiTBvhXnLvNvOmI1ygIONDgIV_4xHYyxyd5y5f0EHAQ=w262-l90-sg-rj"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": "180.00",
+      "quantity": "10",
+      "image": "https://www.sony.com/image/900a12699a1cee214f01139c98e08fce?fmt=pjpeg&resMode=bisharp&wid=354"
+    },
+    {
+      "id": 5,
+      "name": "Product 6",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": "230.00",
+      "quantity": "10",
+      "image": "https://elcopcbonline.com/photos/product/4/176/4.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": "10.00",
+      "quantity": "10",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRc-tWemy3BPyZtGPXYUd7kUgQXizU4O-pXNg&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "price": "30.00",
+      "quantity": "5",
+      "image": "https://www.seventhgeneration.com/sites/default/files/styles/1600w/public/2020-07/mbcampaign-hp-productcarouselpersonalcare-998x790.jpg?itok=EbJB9ky5"
+    }
+  ]
+}
